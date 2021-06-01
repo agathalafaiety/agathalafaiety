@@ -1,4 +1,4 @@
-## Hello, World!!! I'm Agatha Lafaiety
+## 🙋🏻‍♀️ Hello, World!!! I'm Agatha Lafaiety
  <div>
   <a href="https://github.com/agathalafaiety">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=agathalafaiety&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
