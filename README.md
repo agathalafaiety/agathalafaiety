@@ -10,7 +10,7 @@
   <img align="center" alt="agatha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="agatha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="agatha-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="agatha" height="150" width="150" src="imagens/agatha.png">
+  <img align="left" alt="agatha" height="150" width="150" src="imagens/agatha.png">
 </div>
   
   ##
