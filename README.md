@@ -15,8 +15,6 @@
   <img align="right" alt="agatha" height="150" width="150" src="imagens/agatha.png">
 </div>
  
- #
- 
   ## • Find me elsewhere:
  
 <div> 
