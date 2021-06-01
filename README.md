@@ -1,6 +1,4 @@
 ## 🙋🏻‍♀️ Hello, World!!! I'm Agatha Lafaiety
-
-  <img align="right" alt="agatha" height="150" width="150" src="imagens/agatha.png"> 
   
  <div>
   <a href="https://github.com/agathalafaiety">
@@ -9,7 +7,9 @@
 <div>
  
 <div style="display: inline_block"><br>
+   <img align="left" alt="agatha" height="150" width="150" src="imagens/agatha.png"><br>
  
+  
   <img align="center" alt="agatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="agatha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="agatha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +27,6 @@
  
 </div>
  
-##
  
  <div> 
  
