@@ -1,4 +1,4 @@
-### 🖤 Hello World!!! I'm Agatha Lafaiety, I'm 17 years old and I'm passionate about technology 💻 <br>
+### 🖤 Olá Mundo!!! Sou a Agatha Lafaiety, tenho 17 anos e sou apaixonada por tecnologia. 💻 <br>
 
 <div> 
   <a href="https://github.com/agathalafaiety">
