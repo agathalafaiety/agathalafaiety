@@ -2,12 +2,12 @@
 
 <div> 
   <a href="https://github.com/agathalafaiety">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=agathalafaiety&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathalafaiety&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=agathalafaiety&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><img align="right" alt="agatha" height="150" width="150" src="imagens/agatha.png">
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathalafaiety&layout=compact&langs_count=16&theme=midnight-purple"/>
 <div>
   
-  <img align="left" alt="agatha" height="150" width="150" src="imagens/agatha.png">
-  
+ 
 <div style="display: inline_block">
   <br>
   <img align="center" alt="agatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,3 +28,4 @@
  ![Snake animation](https://github.com/agathalafaiety/agathalafaiety/blob/output/github-contribution-grid-snake.svg)
    
 </div>
+
