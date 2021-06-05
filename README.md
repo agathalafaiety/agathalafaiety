@@ -1,5 +1,5 @@
-### 🖤 Hello World!!! I'm Agatha Lafaiety, I'm 17 years old and I'm passionate about technology 💻 <br>
-  
+### 🖤 Hello World!!! I'm Agatha Lafaiety. 💻 <br>
+
 <div> 
   <a href="https://github.com/agathalafaiety">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=agathalafaiety&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
