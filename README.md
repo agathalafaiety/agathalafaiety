@@ -1,5 +1,5 @@
 <h2 align='center'>
-  🖤 Olá, Mundo!!! Sou a Agatha Lafaiety, tenho 17 anos e sou apaixonada por tecnologia. 💻 
+  Olá, Mundo!!! Sou a Agatha Lafaiety, tenho 17 anos e sou apaixonada por tecnologia. 💻 
 </h2> 
 
 <div align='center'> 
