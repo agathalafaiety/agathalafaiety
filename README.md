@@ -7,8 +7,14 @@
    <table border="0" cellspacing="0" cellpadding="0">
      <tr>
       <td>
-   
-   <div align='center'><br>
+         
+ <p align='center'><br>
+  <a href="https://github.com/agathalafaiety">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agathalafaiety&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathalafaiety&layout=compact&langs_count=16&theme=midnight-purple"/><br> 
+ </p>
+      
+   ---
       
   <img alt="agatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,17 +38,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="agatha-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="agatha-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img alt="agatha-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">   
    
- </div>    
-   
-   #
-         
- <p align='center'><br>
-  <a href="https://github.com/agathalafaiety">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agathalafaiety&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathalafaiety&layout=compact&langs_count=16&theme=midnight-purple"/>
- </p>
+   ---
    
  ![Snake animation](https://github.com/agathalafaiety/agathalafaiety/blob/output/github-contribution-grid-snake.svg)
        
