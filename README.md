@@ -12,16 +12,21 @@
 </p> 
 
  #
+ 
+ <div align='center'>
+   
+   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=agathalafaiety&theme=react-dark)  
+   
+</div>
   
-<div> <br>
- <p align='center'>
-  <a href="https://github.com/agathalafaiety">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agathalafaiety&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathalafaiety&layout=compact&langs_count=16&theme=midnight-purple"/>
- </p>
-<div>
-  
+<div align='center'> <br>
+   
+   <table border="0" cellspacing="0" cellpadding="0">
+     <tr>
+      <td>
+   
    <div align='center'><br>
+      
   <img alt="agatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="agatha-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -44,13 +49,25 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="agatha-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="agatha-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- </div>
+  <img alt="agatha-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
    
-  #
-  
-<div align='center'> 
-  
+ </div>    
+   
+   #
+         
+ <p align='center'><br>
+  <a href="https://github.com/agathalafaiety">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=agathalafaiety&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathalafaiety&layout=compact&langs_count=16&theme=midnight-purple"/>
+ </p>
+   
  ![Snake animation](https://github.com/agathalafaiety/agathalafaiety/blob/output/github-contribution-grid-snake.svg)
-  
+       
+   </tr>
+   </td>
+  </table> 
+   
 </div>
+
+
+    
