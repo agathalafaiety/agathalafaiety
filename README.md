@@ -1,6 +1,6 @@
-<h1 align='center'>
+<h3 align='center'>
    Hello, World! I'm Agatha Lafaiety
-</h1> 
+</h3> 
 
 <p align='center'>
    <img alt="agatha" height="150" width="150" src="imagens/agatha.png"> <br>
