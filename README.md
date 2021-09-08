@@ -48,12 +48,6 @@
    
 </div>
 
-<div align='center'>
-   
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=agathalafaiety&theme=react-dark)  
-   
-</div>
-
 <p align='center'>
    <img alt="agatha" height="150" width="150" src="imagens/agatha.png"> <br>
 </p> 
