@@ -47,7 +47,7 @@
 </div>
     
 <p align='center'>
-   <img alt="agatha" height="150" width="150" src="imagens/agatha.png"> <br>
+   <img alt="agatha" height="150" width="150" src="imagens/agathavatar.png"> <br>
 </p> 
 
 <p align='center'>
