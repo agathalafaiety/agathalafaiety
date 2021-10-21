@@ -41,6 +41,8 @@
    ---
    
  ![Snake animation](https://github.com/agathalafaiety/agathalafaiety/blob/output/github-contribution-grid-snake.svg)
+  
+   ---
 
 <p align='center'>
    <img alt="agatha" height="150" width="150" src="imagens/agathavatar.png"> <br>
