@@ -1,9 +1,5 @@
 
 <div align='center'> 
-   
-   <table border="0" cellspacing="0" cellpadding="0">
-     <tr>
-      <td>
          
 <p align='center'><br>
    
@@ -44,9 +40,4 @@
      <a href="https://instagram.com/agathacodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/agathalafaiety" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p> 
-        
-  </div><br><br>
-     
-   </tr>
-   </td>
-  </table> 
+      
