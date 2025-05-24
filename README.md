@@ -20,12 +20,3 @@
  - 🎨 Web Dev & UX/UI: HTML5, CSS3, Figma.
   
 </div>
-
-##
-
-<div align="center">
-  <br><h3 align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{agathalafaiety}/count.svg" /></p> 
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea8364&height=120&section=footer"/>
