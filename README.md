@@ -16,7 +16,7 @@
  - 📚 Big Data and Analytics Intelligence Student at USJT.
  - 🐍 Stack Base: Python | Other Languages: Java and C#.
  - ⚙️ Frameworks & Libraries: Streamlit, Flask, FastAPI.
- - 📊 Data Science & Analytics: SQL, Pandas, NumPy.
+ - 📊 Data Science & Analytics: SQL, PySpark, NumPy.
  - 🎨 Web Dev & UX/UI: HTML5, CSS3, Figma.
   
 </div>
