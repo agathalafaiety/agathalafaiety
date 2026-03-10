@@ -13,6 +13,8 @@ Engenheira de Software focada na intersecção entre **Backend**, **Cloud** e **
 - ☁️ Especializando em infraestrutura **AWS** e automação de pipelines de dados.
 - ⚙️ Experiência em Microsserviços e desenvolvimento de sistemas escaláveis.
 
+  
+
  ##
 
 ### 🛠️ Toolbox Técnica
