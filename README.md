@@ -8,7 +8,7 @@ Engenheira de Software focada na intersecção entre **Backend**, **Cloud** e **
 
 ### 💻 Sobre Mim
 
-- ⚙️ Experiência no desenvolvimento de sistemas, em arquitetura de microsserviços e escalabilidade.
+- ⚙️ Experiência no desenvolvimento de sistemas, em arquitetura e microsserviços escalaveis.
 - 🎓 Estudante constante de novas tecnologias e boas práticas de engenharia de software.
 - 🛠️ Atualmente focada em arquiteturas de **IA Generativa (RAG & LLMs)** e **MLOps**.
 - ☁️ Especializando em infraestrutura **AWS** e automação de pipelines de dados.
