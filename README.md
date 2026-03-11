@@ -8,7 +8,7 @@ Engenheira de Software focada na intersecção entre **Backend**, **Cloud** e **
 
 ### 💻 Sobre Mim
 
-- 🔌 Backend: Desenvolvimento de APIs robustas em Python integradas ao ecossistema de dados.
+- 🔌 Backend: Desenvolvimento de APIs em Python integradas ao ecossistema de dados.
 - 🎓 Engineering: Estudante constante de novas tecnologias e boas práticas de software.
 - ⚙️ Software: Experiência em Microsserviços e desenvolvimento de sistemas escaláveis.
 - ☁️ Cloud: Especializando em infraestrutura AWS e automação de pipelines de dados.
