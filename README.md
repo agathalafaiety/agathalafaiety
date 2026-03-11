@@ -8,12 +8,11 @@ Engenheira de Software focada na intersecção entre **Backend**, **Cloud** e **
 
 ### 💻 Sobre Mim
 
-- 🎓 Estudante constante de novas tecnologias e boas práticas de engenharia de software.
-- 🛠️ Atualmente focada em arquiteturas de **IA Generativa (RAG & LLMs)** e **MLOps**.
-- ☁️ Especializando em infraestrutura **AWS** e automação de pipelines de dados.
-- ⚙️ Experiência em Microsserviços e desenvolvimento de sistemas escaláveis.
-
-  
+- 🔌 Backend: Desenvolvimento de APIs robustas em Python integradas ao ecossistema de dados.
+- 🎓 Engineering: Estudante constante de novas tecnologias e boas práticas de software.
+- ⚙️ Software: Experiência em Microsserviços e desenvolvimento de sistemas escaláveis.
+- ☁️ Cloud: Especializando em infraestrutura AWS e automação de pipelines de dados.
+- 🤖 IA & MLOps: Focada em arquiteturas de IA Generativa (RAG & LLMs) e MLOps.
 
  ##
 
