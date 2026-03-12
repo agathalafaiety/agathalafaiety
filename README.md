@@ -20,9 +20,9 @@ Engenheira de Software focada na intersecção entre **Backend**, **Cloud** e **
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Python (Principal)`, `Java`, `C#`, `SQL` |
-| **Backend & Frameworks** | `FastAPI`, `Flask`, `Django`, `PySpark` |
-| **Inteligência Artificial** | `LLMs`, `RAG`, `LangChain`, `MLOps` |
-| **Cloud & DevOps** | `AWS`, `Docker`, `Git`, `CI/CD`, `Splunk` |
-| **Data & Analytics** | `Pandas`, `SQL Server`, `PostgreSQL`, `Looker Studio` |
+| **Linguagens** | `Python`, `Java`, `C#`, `SQL` |
+| **Backend & Frameworks** | `FastAPI`, `Flask`, `PySpark` |
 | **Frontend & Design** | `Streamlit`, `HTML5`, `CSS3`, `Figma` |
+| **Cloud & DevOps** | `AWS`, `Docker`, `Git`, `CI/CD`, `Splunk` |
+| **Inteligência Artificial** | `LLMs`, `RAG`, `LangChain`, `MLOps` |
+| **Data & Analytics** | `Pandas`, `SQL Server`, `PostgreSQL`, `Looker Studio` |
