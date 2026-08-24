@@ -1,4 +1,4 @@
-### Olá, eu sou a Agatha Lafaiety 💕
+### Olá, eu sou a Agatha Lafaiety!
 
 Engenheira de Software focada na intersecção entre **Backend**, **Cloud** e **Inteligência Artificial**. Tenho experiência no desenvolvimento de sistemas escaláveis e na implementação de soluções modernas de IA Generativa.
 
