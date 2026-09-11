@@ -1,28 +1,55 @@
-### Olá, eu sou a Agatha Lafaiety!
+<h1 align="center">Agatha Lafaiety</h1>
 
-Engenheira de Software focada na intersecção entre **Backend**, **Cloud** e **Inteligência Artificial**. Tenho experiência no desenvolvimento de sistemas escaláveis e na implementação de soluções modernas de IA Generativa.
+<p align="center">
+  <strong>Software Engineer · AI Engineering · Python · AWS</strong>
+</p>
 
-##
+<p align="center">
+  Construindo soluções na interseção entre software, dados,<br>
+  infraestrutura cloud e inteligência artificial.
+</p>
 
- <img align="right" alt="hermione-gif" height=180px style="border-radius:80px;" src="https://img.wattpad.com/37e8a320673e71a15009177511dcf81eac49f028/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f643352524c3642574f394a7950513d3d2d3936343832373133302e313634313737626533373335663235343434323934303331363236392e676966">
+<p align="center">
+  <a href="https://www.linkedin.com/in/agathalafaiety/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://img.shields.io/badge/São_Paulo-Brasil-6E7681?style=flat-square" alt="São Paulo, Brasil">
+</p>
 
-### 💻 Sobre Mim
+## Sobre
 
-- 🔌 Backend: Desenvolvimento de APIs em Python integradas ao ecossistema de dados.
-- 🎓 Engineering: Estudante constante de novas tecnologias e boas práticas de software.
-- ⚙️ Software: Experiência em Microsserviços e desenvolvimento de sistemas escaláveis.
-- ☁️ Cloud: Especializando em infraestrutura AWS e automação de pipelines de dados.
-- 🤖 IA & MLOps: Focada em arquiteturas de IA Generativa (RAG & LLMs) e MLOps.
+Sou Engenheira de Software com foco em sistemas orientados a dados e aplicações de Inteligência Artificial. Minha atuação conecta desenvolvimento backend, cloud e IA para construir soluções confiáveis, escaláveis e orientadas a resultados.
 
- ##
+Atualmente, aprofundo meus estudos em Engenharia de IA, MLOps e arquiteturas backend para levar experimentos a soluções consistentes e prontas para evoluir.
 
-### 🛠️ Toolbox Técnica
+## Áreas de atuação
 
-| Categoria | Tecnologias |
+- **Backend** — APIs e sistemas em Python integrados a dados e serviços.
+- **Cloud** — Infraestrutura AWS, automação e práticas de entrega contínua.
+- **Inteligência Artificial** — Machine learning, IA generativa e avaliação de modelos.
+- **Engenharia de Software** — Arquiteturas escaláveis, qualidade e boas práticas de desenvolvimento.
+
+## Toolbox técnica
+
+| Área | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Python`, `SQL` |
-| **Backend & Frameworks** | `FastAPI`, `Flask`, `PySpark` |
-| **Inteligência Artificial** | `LLMs`, `RAG`, `LangChain`, `MLOps` |
-| **Frontend & Design** | `Streamlit`, `HTML5`, `CSS3`, `Figma` |
-| **Cloud & DevOps** | `AWS`, `Docker`, `Git`, `CI/CD`, `Splunk` |
-| **Data & Analytics** | `Pandas`, `SQL Server`, `PostgreSQL`, `Chorma DB` |
+| **Core** | `Python`, `SQL` |
+| **IA & Dados** | `Machine Learning`, `GenAI`, `scikit-learn`, `Transformers`, `Pandas` |
+| **Cloud & Automação** | `AWS`, `Terraform`, `GitHub Actions`, `CI/CD` |
+| **Apps & Ferramentas** | `Streamlit`, `Jupyter`, `Git` |
+
+## Aprendizado recente
+
+- **Introduction to Machine Learning** — Universidade de São Paulo, 2026
+- **Foundations of Prompt Engineering** — Amazon Web Services, 2026
+
+## Em foco agora
+
+- Engenharia de IA e avaliação de modelos
+- Sistemas backend orientados a dados
+- Automação e infraestrutura na AWS
+- MLOps e aplicações responsáveis de IA
+
+## Contato
+
+Estou sempre aberta a trocar ideias sobre software, dados e inteligência artificial. Vamos conversar pelo [LinkedIn](https://www.linkedin.com/in/agathalafaiety/).
