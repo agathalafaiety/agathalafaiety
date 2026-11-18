@@ -8,6 +8,4 @@ Engenheira de Software com foco em sistemas orientados a dados, aplicações de 
 
 `Python` · `SQL` · `Machine Learning` · `GenAI` · `AWS` · `Terraform` · `Streamlit`
 
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/agathalafaiety/) · São Paulo, Brasil
+· São Paulo, Brasil
