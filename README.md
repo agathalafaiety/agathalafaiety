@@ -7,5 +7,3 @@ Engenheira de Software com foco em sistemas orientados a dados, aplicações de 
 ## Tecnologias
 
 `Python` · `SQL` · `Machine Learning` · `GenAI` · `AWS` · `Terraform` · `Streamlit`
-
-· São Paulo, Brasil
